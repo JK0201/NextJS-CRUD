@@ -18,7 +18,7 @@
   <details>
     <summary><b>메인 페이지</b></summary>
     <br>
-    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/77b39fe2-9e4d-4f41-b63d-e32e03bc103b" width="45%"/>
+    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/d604744f-0846-49c1-a2e7-a2b54173c78a" width="45%"/>
     <br>
     <p> - 빠른 페이지 이동을 위한 네비게이션 기능</p>
     <p> - 쿠키를 활용한 Dark/Light 모드</p>
@@ -33,14 +33,14 @@
     <summary><b>회원가입/로그인</b></summary>
     <br>
     <p><b># 회원가입 페이지</b></p>
-    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/6e7c6e7d-033d-4b38-8a83-dd66d447ecb8" width="45%"/>
+    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/2a1c97fc-5bc5-49ec-ac85-5bfa85803501" width="45%"/>
     <br>
     <p> - 아이디/비밀번호/닉네임 유효성검사
     <p> - 아이디 중복검사</p>
     <p> - Bcrypt + Salt 기능을 활용한 비밀번호 해싱</p>
     <br>
     <p><b># 로그인 페이지</b></p>
-    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/cfcc58c2-0d69-4141-b7a2-04e93ab82b05" width="45%"/>
+    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/32e2158c-5472-4fcf-b975-54ff016fc573" width="45%"/>
     <br>
     <p> - NextAuth 라이브러리를 활용한 세션방식의 간단한 로그인기능</p>
     <p> - 일반회원, 소셜회원, Admin(슈퍼계정)으로 권한 분류</p>
@@ -54,27 +54,27 @@
     <summary><b>게시판</b></summary>
     <br>
     <p><b># 글 리스트 페이지</b></p>
-    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/0a963ae6-546e-4a54-ada8-7c1769c80209" width="45%"/>
+    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/c644437e-3486-4918-9c6c-8acba8167d1f" width="45%"/>
     <br>
     <p> - 제목, 작성자명 표시</p>
     <p> - 좋아요/싫어요 개수, 댓글 개수, 사진 업로드 개수 간단 표시</p>
     <br>
     <p><b># 글 작성/수정 페이지 [회원기능]</b></p>
-    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/e7ce09a7-69c3-47aa-91de-11b512382769" width="45%"/>
+    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/89f9371f-7ba9-49c5-92bb-16eafdc8c5ac" width="45%"/>
     <br>
     <p> - 배열을 활용한 이미지 핸들링(이미지 추가/삭제)</p>
     <p> - AWS S3를 활용한 다중 이미지 업로드</p>
     <p> - S3 Presigned URL 기능을 활용하여 클라이언트에서 S3로 직접 업로드 (서버 요청 최소화)</p>
     <br>
     <p><b># 글 내용 조회 페이지 [회원기능]</b></p>
-    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/692f3d92-9ce2-4069-82f4-72897c90b720" width="45%"/>
+    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/44b36ab3-e7c5-49ae-a186-07231091f0f0" width="45%"/>
     <br>
     <p> - 본인 또는 Admin계정 게시물 삭제/수정</p>
     <p> - 좋아요/싫어요 기능 (계정당 각 게시글에 대해 좋아요 또는 싫어요 하나만 선택 가능)</p>
     <p> - 게시글 삭제시 게시글, S3에 업로드된 사진, 좋아요/싫어요, 댓글이 모두 삭제되도록 Foreign key 기능과 유사하게 구현 (게시글ID를 활용해 연관 기능에 대해 컬렉션을 매핑함) </p>
     <br>
     <p><b># 댓글 [회원기능]</b></p>
-    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/df49228c-9d42-43b8-92a4-1e6d23ff7da2" width="45%"/>
+    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/1f16a464-81b0-4642-8335-b3fb06372691" width="45%"/>
     <br>
     <p> - 게시글 별 간단한 댓글 기능</p>
     <hr>
