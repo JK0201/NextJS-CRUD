@@ -42,7 +42,7 @@
     <p><b># 로그인 페이지</b></p>
     <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/32e2158c-5472-4fcf-b975-54ff016fc573" width="45%"/>
     <br>
-    <p> - NextAuth 라이브러리를 활용한 JWT토큰 방식의 로그인기능 (개발시 라이브러리 자체 Refresh-Token 갱신 버그로 현재는 Access-Token만 사용중, 추후 패치가 있으면 Refresh-Token 적용 예정)</p>
+    <p> - NextAuth 라이브러리를 활용한 JWT토큰 방식의 로그인기능 (개발시 라이브러리 자체 Refresh-Token 갱신 버그로 현재는 Access-Token만 사용 중, 추후 패치가 있으면 Refresh-Token 적용 예정)</p>
     <p> - 일반회원, 소셜회원, Admin(슈퍼계정)으로 권한 분류</p>
     <p> - 회원가입한 일반회원 로그인기능</p>
     <p> - 다양한 소셜로그인(카카오, 네이버, 구글, 깃헙)을 통한 간편 회원가입 및 로그인기능</p>
