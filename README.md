@@ -67,7 +67,7 @@
     <p> - S3 Presigned URL 기능을 활용하여 클라이언트에서 S3로 직접 업로드 (서버 요청 최소화)</p>
     <br>
     <p><b># 글 내용 조회 페이지 [회원기능]</b></p>
-    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/44b36ab3-e7c5-49ae-a186-07231091f0f0" width="45%"/>
+    <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/98225eb6-bef3-493e-9f2d-4026f80957d8" width="45%"/>
     <br>
     <p> - 본인 또는 Admin계정 게시물 삭제/수정</p>
     <p> - 좋아요/싫어요 기능 (계정당 각 게시글에 대해 좋아요 또는 싫어요 하나만 선택 가능)</p>
