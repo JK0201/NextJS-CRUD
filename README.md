@@ -77,7 +77,6 @@
     <img src="https://github.com/JK0201/NextJS-CRUD/assets/124655981/1f16a464-81b0-4642-8335-b3fb06372691" width="45%"/>
     <br>
     <p> - 게시글 별 간단한 댓글 기능</p>
-    <hr>
   </details>
   <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16213E,10:0F3460,30:533483,75:5B2A86,100:E94560&height=40&section=footer&text=&fontSize=0" width="100%"/>
