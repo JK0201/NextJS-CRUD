@@ -3,21 +3,15 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&pause=10000&color=58A6FF&center=true&random=false&width=435&lines=NextJS-CRUD" alt="Typing SVG" />
   </a>
+  <br>
   
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JK0201/Devster-final)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/NXt0J5pUHhM)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </div>
 <br>
 
 ## Overview
 - 해당 프로젝트는 복습의 목적으로 Next.js 프레임워크와 NoSQL 데이터베이스인 MongoDB를 활용하여 만든 간단한 CRUD(Create, Read, Update, Delete) 웹 사이트입니다. 서버에서 동적으로 HTML을 생성하는 SSR(Server-Side Rendering) 방식과 이를 통한 검색 엔진 최적화(SEO)의 이점을 생각해보며 제작했습니다. 
-<br>
-
-## 주요 기술
-<div style=display:flex>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
 <br>
 
 ## Features
